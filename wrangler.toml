@@ -1,0 +1,9 @@
+account_id = "493524dadc6a7fdef16df9d2ad442576"
+compatibility_date = "2022-02-23"
+kv_namespaces = [
+  {binding = "AUTH_STORE", id = "6c747c830f89413fad162f34ac5c8a60"},
+]
+name = "typor"
+site = {bucket = "./public"}
+type = "webpack"
+workers_dev = true

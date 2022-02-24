@@ -1,6 +1,6 @@
 import cookie from "cookie";
 
-let AUTH0_DOMAIN = "dev-q02xquzg.us.auth0.com";
+let AUTH0_DOMAIN = "https://dev-q02xquzg.us.auth0.com";
 let AUTH0_CLIENT_ID = "nAhal1XfuCKM1Kvmna7rzpi6tAdENYD2";
 let AUTH0_CLIENT_SECRET =
   "f0Jcgfc_Lgsk6umwUkPVSmhw1R-46w-BKKQe4pRpz8xSVRweGcJWp5u-wFIBkYoC";
